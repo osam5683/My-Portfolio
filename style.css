@@ -105,19 +105,23 @@ h4{
 	right: 6px; 
 }
 
-.about{
+#about{
 	width: 100%;
 	padding: 100px 0px;
 	background-color: #191919;
 }
-.about img{
+ img{
 	height: auto;
 	width: 430px;
 }
 .about-text{
 	width: 550px;
 }
+
+
+
 .main{
+	background-color: black;
 	width: 1130px;
 	max-width: 95%;
 	margin: 0 auto;
